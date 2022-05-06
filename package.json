@@ -1,5 +1,6 @@
 {
-  "name": "create-neon-yarn",
+  "name": "create-yarn-neon",
+  "private": true,
   "packageManager": "yarn@3.2.0",
   "devDependencies": {
     "cargo-cp-artifact": "^0.1.6",
